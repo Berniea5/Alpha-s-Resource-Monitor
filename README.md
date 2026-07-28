@@ -7,8 +7,8 @@ A Lightweight Resource Monitor To see Your
 -RAM
 -VRAM**
 
-**-Total Network Usage
--Total Space Taken On Your C Drive**
+**-Total Network Usage- and
+-Total Space Taken On Your C Drive-**
 
 **-More!**
 
