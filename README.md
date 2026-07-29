@@ -1,18 +1,15 @@
 # Alpha's Resource Monitor
-> A Lightweight Resource Monitor To see Your:
+> [!CAUTION]
+> This Product **May Not** Function Correctly With AMD And Intel GPU's
 
-**| GPU
-| CPU 
-| RAM 
-| VRAM Usage |**
+
+> **A Lightweight Resource Monitor To see Your:**
+
 
 - Total Network Usage
 - Total Space Taken On Your C Drive
 - Ability To Take Notes Within The App!
 - **More! See Below**
-
-> [!CAUTION]
-> This Product **May Not** Function Correctly With AMD And Intel GPU's
 
 <img width="602" height="432" alt="Application_K1NXMTTKft0" src="https://github.com/user-attachments/assets/566fb4c5-6801-4c2a-bd9f-1b8e0193990c" />
 
