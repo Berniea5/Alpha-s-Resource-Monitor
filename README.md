@@ -4,7 +4,7 @@
 **-GPU
 -CPU
 -RAM
--VRAM**
+-VRAM Usage**
 
 - Total Network Usage
 - Total Space Taken On Your C Drive
