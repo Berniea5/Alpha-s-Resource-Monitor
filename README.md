@@ -16,8 +16,8 @@
 > [!IMPORTANT]
 > You Can Also Use This Tool To: 
 
-- View Anomalies Such As Something Suddenly Taking A Bunch Of Space On Your C Drive
-- See Total Data Sent On Your Internet Since Booting Your PC (Especially Useful When Wanting To Track How Much Data A VPN Uses)
+- Detect Anomalies Such As Something Suddenly Taking A Large Amount Of Space On Your C Drive
+- See Total Data Sent On Your Network Since Booting (Especially Useful When Wanting To Track How Much Data A VPN Uses Over Time)
 
 > ***Go To The Release Page To Learn More!***
 
