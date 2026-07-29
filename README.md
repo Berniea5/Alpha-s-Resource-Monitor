@@ -1,4 +1,4 @@
-# Alpha-s-Resource-Monitor
+# Alpha's Resource Monitor
 > A Lightweight Resource Monitor To see Your:
 
 **-GPU
