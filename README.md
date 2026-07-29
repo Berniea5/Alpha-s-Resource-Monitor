@@ -9,7 +9,7 @@
 - Total Network Usage
 - Total Space Taken On Your C Drive
 - Ability To Take Notes Within The App!
-- **Much More**!
+- **Much More! See Below**
 
 <img width="602" height="432" alt="Application_K1NXMTTKft0" src="https://github.com/user-attachments/assets/566fb4c5-6801-4c2a-bd9f-1b8e0193990c" />\
 
