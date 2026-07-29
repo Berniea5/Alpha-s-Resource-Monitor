@@ -12,14 +12,16 @@
 **-Ability To Take Notes Within The App!**\
 **-More!**
 
-<img width="602" height="432" alt="Application_K1NXMTTKft0" src="https://github.com/user-attachments/assets/566fb4c5-6801-4c2a-bd9f-1b8e0193990c" />
+<img width="602" height="432" alt="Application_K1NXMTTKft0" src="https://github.com/user-attachments/assets/566fb4c5-6801-4c2a-bd9f-1b8e0193990c" />\
 
-# **You Can Use This Tool To**: 
+> [!IMPORTANT]
+> You Can Also Use This Tool To: 
 
-**-View Anomalies Such As Something Eating A Bunch Of Space On Your C Drive**
+**-View Anomalies Such As Something Suddenly Eating A Bunch Of Space On Your C Drive**
 
 **-See Total Data Sent On Your Internet Since Booting Your Pc (Especially Useful When Wanting To Track How Much Data A VPN Uses When Using One)**
 
 *Go To The Release Page To Learn More!*
 
 <img width="599" height="426" alt="Screenshot 2026-07-29 011635" src="https://github.com/user-attachments/assets/6819cfc6-d482-4c52-b6b3-777d2cbfd9c5" />
+
