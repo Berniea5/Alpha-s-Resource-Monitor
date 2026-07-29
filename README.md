@@ -8,9 +8,9 @@
 
 - Total Network Usage
 
-- Total Space Taken On Your C Drive**
+- Total Space Taken On Your C Drive
 
-- Ability To Take Notes Within The App!**
+- Ability To Take Notes Within The App!
 
 - More!
 
