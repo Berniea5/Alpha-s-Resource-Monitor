@@ -1,10 +1,10 @@
 # Alpha's Resource Monitor
 > A Lightweight Resource Monitor To see Your:
 
-**-GPU
--CPU
--RAM
--VRAM Usage**
+**| GPU
+| CPU 
+| RAM 
+| VRAM Usage |**
 
 - Total Network Usage
 - Total Space Taken On Your C Drive
