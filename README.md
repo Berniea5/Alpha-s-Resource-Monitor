@@ -19,7 +19,7 @@
 - View Anomalies Such As Something Suddenly Taking A Bunch Of Space On Your C Drive
 - See Total Data Sent On Your Internet Since Booting Your PC (Especially Useful When Wanting To Track How Much Data A VPN Uses)
 
-***Go To The Release Page To Learn More!***
+> ***Go To The Release Page To Learn More!***
 
 <img width="599" height="426" alt="Screenshot 2026-07-29 011635" src="https://github.com/user-attachments/assets/6819cfc6-d482-4c52-b6b3-777d2cbfd9c5" />
 
