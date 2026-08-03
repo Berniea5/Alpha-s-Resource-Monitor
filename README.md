@@ -1,6 +1,6 @@
 # Alpha's Resource Monitor
 > [!CAUTION]
-> This Product **MAY NOT** Function Correctly With AMD And Intel GPU's
+> This Product **MAY POSSIBLY NOT** Function Correctly With AMD And Intel GPU's
 
 
 > **A Lightweight Resource Monitor To see Your:**
